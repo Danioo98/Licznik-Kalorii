@@ -1,0 +1,333 @@
+{
+   "produkty":[
+      {
+         "produkt":"Jablko",
+         "bialko":0.7,
+         "tluszcze":0.7,
+         "weglowodany":20.6,
+         "kcal":85
+      },
+      {
+         "produkt":"Arbuz",
+         "bialko":0.6,
+         "tluszcze":0.1,
+         "weglowodany":8.4,
+         "kcal":36
+      },
+      {
+         "produkt":"Beza",
+         "bialko":3.9,
+         "tluszcze":0.1,
+         "weglowodany":92.8,
+         "kcal":387
+      },
+      {
+         "produkt":"Banan",
+         "tluszcze":0.4,
+         "bialko":1.2,
+         "weglowodany":28.2,
+         "kcal":116
+      },
+      {
+         "produkt":"Gruszka",
+         "bialko":0.8,
+         "tluszcze":0.3,
+         "weglowodany":18.7,
+         "kcal":75
+      },
+      {
+         "produkt":"Kiwi",
+         "bialko":1,
+         "tluszcze":0.6,
+         "weglowodany":15.3,
+         "kcal":66
+      },
+      {
+         "produkt":"Wiśnie",
+         "bialko":0.9,
+         "tluszcze":0.4,
+         "weglowodany":10.9,
+         "kcal":49
+      },
+      {
+         "produkt":"Chleb 1x kromka",
+         "bialko":1.9,
+         "tluszcze":0.4,
+         "weglowodany":16.9,
+         "kcal":77
+      },
+      {
+         "produkt":"Chleb 2x kromka",
+         "bialko":3.9,
+         "tluszcze":0.8,
+         "weglowodany":33.8,
+         "kcal":153
+      },
+      {
+         "produkt":"Bułka kukurydziana",
+         "bialko":12.0,
+         "tluszcze":9.6,
+         "weglowodany":44.0,
+         "kcal":251
+      },
+      {
+         "produkt":"Bułka pszenna",
+         "bialko":8.9,
+         "tluszcze":1.5,
+         "weglowodany":55.9,
+         "kcal":218
+      },
+      {
+         "produkt":"Bułka z dynią",
+         "bialko":11.8,
+         "tluszcze":10.3,
+         "weglowodany":46.4,
+         "kcal":261
+      },
+      {
+         "produkt":"Bułka mleczna",
+         "bialko":8.1,
+         "tluszcze":12.5,
+         "weglowodany":52.6,
+         "kcal":124
+      },
+      {
+         "produkt":"Ćwiartka z kurczaka",
+         "bialko":16.9,
+         "tluszcze":11.6,
+         "weglowodany":0.0,
+         "kcal":169
+      },
+      {
+         "produkt":"Kiełbasa grilowa",
+         "bialko":17.1,
+         "tluszcze":19.6,
+         "weglowodany":0.0,
+         "kcal":245
+      },
+      {
+         "produkt":"Frytki",
+         "bialko":3.4,
+         "tluszcze":14,
+         "weglowodany":36,
+         "kcal":289
+      },
+      {
+         "produkt":"Krokiet z mięsem",
+         "bialko":11.0,
+         "tluszcze":18.0,
+         "weglowodany":21.0,
+         "kcal":289
+      },
+      {
+         "produkt":"Actimel",
+         "bialko":2.9,
+         "tluszcze":1.6,
+         "weglowodany":10.5,
+         "kcal":71
+      },
+      {
+         "produkt":"Jajo kurze",
+         "bialko":12.5,
+         "tluszcze":9.7,
+         "weglowodany":0.6,
+         "kcal":140
+      },
+      {
+         "produkt":"Jajo gotowane",
+         "bialko":12.6,
+         "tluszcze":10.6,
+         "weglowodany":1.1,
+         "kcal":155
+      },
+      {
+         "produkt":"Jogurt naturalny activia",
+         "bialko":4.5,
+         "tluszcze":3.4,
+         "weglowodany":5.1,
+         "kcal":69
+      },
+      {
+         "produkt":"Jogurt z kokosem",
+         "bialko":3.2,
+         "tluszcze":5.9,
+         "weglowodany":14.0,
+         "kcal":125
+      },
+      {
+         "produkt":"Garść startego sera żółtego",
+         "bialko":7.5,
+         "tluszcze":8.2,
+         "weglowodany":0.7,
+         "kcal":356
+      },
+      {
+         "produkt":"Białko jaja kurzego",
+         "bialko":10.9,
+         "tluszcze":0.2,
+         "weglowodany":0.7,
+         "kcal":48
+      },
+      {
+         "produkt":"Filet mrożony z pangi",
+         "bialko":41.6,
+         "tluszcze":2.1,
+         "weglowodany":0.0,
+         "kcal":53
+      },
+      {
+         "produkt":"Filet mrożony z tilapii",
+         "bialko":13.0,
+         "tluszcze":4.0,
+         "weglowodany":0.0,
+         "kcal":90
+      },
+      {
+         "produkt":"Filet z łososia",
+         "bialko":19.9,
+         "tluszcze":13.6,
+         "weglowodany":0.0,
+         "kcal":201
+      },
+      {
+         "produkt":"Filet z pstrąga",
+         "bialko":18.6,
+         "tluszcze":9.6,
+         "weglowodany":0.0,
+         "kcal":160
+      },
+      {
+         "produkt":"Baton kit kat",
+         "bialko":6.7,
+         "tluszcze":30.3,
+         "weglowodany":59.8,
+         "kcal":538
+      },
+      {
+         "produkt":"Baton musli",
+         "bialko":1.8,
+         "tluszcze":5.6,
+         "weglowodany":28.8,
+         "kcal":173
+      },
+      {
+         "produkt":"Baton proteinowy",
+         "bialko":13.1,
+         "tluszcze":5.8,
+         "weglowodany":13.1,
+         "kcal":174
+      },
+      {
+         "produkt":"Baton kinder bueno",
+         "bialko":3.9,
+         "tluszcze":15.9,
+         "weglowodany":20.6,
+         "kcal":244
+      },
+      {
+         "produkt":"Beza",
+         "bialko":3.9,
+         "tluszcze":0.1,
+         "weglowodany":92.8,
+         "kcal":387
+      },
+      {
+         "produkt":"Chipsy",
+         "bialko":7.3,
+         "tluszcze":34,
+         "weglowodany":51,
+         "kcal":535
+      },
+      {
+         "produkt":"Jogurt naturalny",
+         "bialko":4.3,
+         "tluszcze":2,
+         "weglowodany":6.2,
+         "kcal":60
+      },
+      {
+         "produkt":"Jogurt z owocami leśnymi",
+         "bialko":2.7,
+         "tluszcze":1.6,
+         "weglowodany":10.6,
+         "kcal":68
+      },
+      {
+         "produkt":"Jogurt pitny",
+         "bialko":2.8,
+         "tluszcze":0.7,
+         "weglowodany":20.6,
+         "kcal":85
+      },
+      {
+         "produkt":"Ziemniak",
+         "bialko":1.9,
+         "tluszcze":0.1,
+         "weglowodany":16.8,
+         "kcal":79
+      },
+      {
+         "produkt":"Ogórek zielony",
+         "bialko":0.7,
+         "tluszcze":0.1,
+         "weglowodany":2.9,
+         "kcal":14
+      },
+      {
+         "produkt":"Pomidor",
+         "bialko":0.9,
+         "tluszcze":0.2,
+         "weglowodany":4.1,
+         "kcal":19
+      },
+      {
+         "produkt":"Marchewka",
+         "bialko":0.7,
+         "tluszcze":0.1,
+         "weglowodany":2.9,
+         "kcal":14
+      },
+      {
+         "produkt":"Kukurydza konserwowa",
+         "bialko":2.9,
+         "tluszcze":1.2,
+         "weglowodany":23.6,
+         "kcal":109
+      },
+      {
+         "produkt":"Sałata zielona",
+         "bialko":1.4,
+         "tluszcze":0.2,
+         "weglowodany":2.9,
+         "kcal":16
+      },
+      {
+         "produkt":"Warzywa mrożone",
+         "bialko":2.8,
+         "tluszcze":0.3,
+         "weglowodany":7.5,
+         "kcal":30
+      },
+      {
+         "produkt":"Por",
+         "bialko":2.2,
+         "tluszcze":0.3,
+         "weglowodany":5.7,
+         "kcal":29
+      },
+      {
+         "produkt":"Seler",
+         "bialko":1.6,
+         "tluszcze":0.3,
+         "weglowodany":7.7,
+         "kcal":30
+      },
+      {
+         "produkt":"Kapusta",
+         "bialko":1.7,
+         "tluszcze":0.2,
+         "weglowodany":7.4,
+         "kcal":29
+      }
+   ]
+}

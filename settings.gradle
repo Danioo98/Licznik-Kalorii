@@ -1,0 +1,2 @@
+rootProject.name='LicznikKalorii'
+include ':app'

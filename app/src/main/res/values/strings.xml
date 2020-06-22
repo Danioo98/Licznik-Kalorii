@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LicznikKalorii</string>
+    <string name="wagaHint">Twoja waga</string>
+    <string name="wzrostHint">Twoj wzrost</string>
+    <string name="wiekHint">Twoj wiek</string>
+    <string name="ObliczBMI">OBLICZ BMR</string>
+    <string name="save">Zapisz i przejdź dalej</string>
+    <string name="showResults">POKAŻ WYNIKI</string>
+</resources>
